@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\Users\\Pn0\\Git-Test\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T06:37:20.127Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "test.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-03T06:36:09.713Z"
+              "WhenOpened": "2026-02-03T06:36:09.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-03T06:36:07.085Z"
+              "WhenOpened": "2026-02-03T06:36:07.085Z",
+              "EditorCaption": ""
             }
           ]
         }
